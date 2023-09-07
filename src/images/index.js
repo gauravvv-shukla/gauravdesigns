@@ -1,3 +1,4 @@
+import favicon from '../images/favicon.webp';
 import logo from '../images/logo.jpg'
 import Awk1 from '../images/Awkward1.jpg';
 import Movie from '../images/movie.png';
@@ -53,6 +54,7 @@ import {
 } from './movie-theater';
 
 export {
+    favicon,
     logo,
     Awk1,
     Movie,
